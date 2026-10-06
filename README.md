@@ -44,8 +44,6 @@ Google Sheets Lead Database
 Streamlit Sales Operations Dashboard
 ```
 
-![System Architecture](assets/system-architecture.png)
-
 ## Tech Stack
 
 | Tool | Purpose |
