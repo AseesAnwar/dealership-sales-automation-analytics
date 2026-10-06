@@ -4,8 +4,6 @@ An end-to-end portfolio project that combines **workflow automation, lead scorin
 
 > **Portfolio disclaimer:** This project uses synthetic dealership and customer data. It was not deployed into a live dealership CRM.
 
-![Dealership Sales Operations Dashboard](assets/dashboard-overview.png)
-
 ## Business Problem
 
 Dealership leads arrive from multiple sources such as Website, Facebook, Google Ads, Carsales, referrals, and showroom walk-ins. Without a structured process, high-intent customers can be missed, response times can slip, and managers may have limited visibility into lead quality and follow-up performance.
